@@ -48,22 +48,11 @@ Each folder usually contains:
 
 # Planned Topics
 
-## 01 Async
+## 01 Async [check details](./01_async)
+## 02 Queue Streaming [check details](./02_queue_streaming)
+## 03 Structure Output [check details](./03_structured_output)
 
-Understanding why modern AI systems rely heavily on async workflows.
-
-Topics:
-
-- `async`
-- `await`
-- `asyncio.gather`
-- IO-bound workflows
-- concurrent waiting
-- async in AI applications
-
----
-
-## 02 More is coming..
+More is coming..
 
 ---
 
